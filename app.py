@@ -18,7 +18,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.title("🏠 MyB2R Pro: Análisis de Rentabilidad")
+st.title("MyB2R Análisis de Rentabilidad")
 st.image("logo.png", width=100) # Ajusta el ancho a tu gusto
 st.markdown("---")
 
