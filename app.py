@@ -4,7 +4,11 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 # Configuración premium de la página
-st.set_page_config(page_title="MyB2R Pro | Investment Suite", layout="wide", page_icon="🏠")
+st.set_page_config(page_title="MyB2R Pro", layout="centered", page_icon="logo.png")
+
+# Primero la imagen, luego el título
+st.image("logo.png", width=100)
+st.title("MyB2R Pro")
 
 # Estilo personalizado para las métricas
 st.markdown("""
