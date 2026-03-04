@@ -15,6 +15,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 st.title("🏠 MyB2R Pro: Análisis de Rentabilidad")
+st.image("logo.png", width=100) # Ajusta el ancho a tu gusto
 st.markdown("---")
 
 # --- PILAR 1: ENTRADA DE DATOS (BARRA LATERAL) ---
